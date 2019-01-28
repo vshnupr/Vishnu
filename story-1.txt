@@ -1,1 +1,1 @@
-this is created in story-1 branch
+This is created in story-1 branch.Made changes to create conflicts beween story1 and story2.This is made by Vishnu.Suggested by Kalli.Trying a new approach suggested by Kalli.
